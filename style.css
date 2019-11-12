@@ -9,3 +9,13 @@ footer {
 footer p {
     color: #fff !important; 
 }
+
+#input-form {
+    height: 30px;
+    width: 500px;
+    border-color: #593196;
+}
+
+h1 {
+    color: #593196;
+}
